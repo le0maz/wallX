@@ -6,9 +6,9 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/antofagasta.jpg"
         },
         {
-            "name":"City",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "name":"Colorful",
+            "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsX.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsX.png"
         },
         {
             "name":"Amoled",
@@ -19,11 +19,6 @@
             "name":"Stock",
             "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/collections/stock.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/collections/thumb/stock.jpg"
-        },
-        {
-            "name":"People",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
     "Wallpapers":[
@@ -106,7 +101,7 @@
             "collections":"amoled"
         },
 		{
-            "name":"Astronomy",
+            "name":"Abstract",
             "author":"Leonardo Mazzone",
             "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/astronomy.png",
             "collections":"amoled"
@@ -488,8 +483,253 @@
             "author":"Earth",
             "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/sicily_2.jpg",
             "collections":"earth"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsX2ef.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXbl2.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXd2.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXe2.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXg.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXk.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXpqe.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXs1.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsX.png",
+            "collections":"colorful"
+        },
+        {
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsXa.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsXb.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsXc.png",
+            "collections":"colorful" 
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_aura_black_granite.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_aura_gold_granite.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_aura_silver_granite.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_earth.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_earth_night.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_aechmea.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_aquilegia.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_fritillaria.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_gloriosa.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_helleborus.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_muscari.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_heritage_stripe_black.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_moon.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_01.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_02.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_19.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_31.png",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_32.png",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_44.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_33.png",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_41.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_42.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_default.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_gallery_01.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_gallery_02.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_gallery_04.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_red.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_sandstone.jpg",
+            "collections":"stock"
         }
-			
 		
     ]
 }
