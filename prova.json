@@ -1,9 +1,9 @@
 {
     "Collections":[
         {
-            "name":"Landscapes",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+            "name":"Earth",
+            "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/antofagasta.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/antofagasta.jpg"
         },
         {
             "name":"City",
@@ -11,9 +11,9 @@
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
-            "name":"Food",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+            "name":"Amoled",
+            "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/mars.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/mars.png"
         },
 		{
             "name":"Stock",
@@ -28,71 +28,468 @@
     ],
     "Wallpapers":[
         {
-            "name":"Colors X",
+            "name":"Mars",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"food"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/mars.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
+            "name":"Abstract AMOLED",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"food,stock"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
+            "name":"Abstract AMOLED 2",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"landscapes,city,food,people"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_2.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
+            "name":"Abstract AMOLED 3",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"food"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_3.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
+            "name":"Abstract AMOLED 4",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"food"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_4.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
+            "name":"Abstract 1",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"food"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_5.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
+            "name":"Abstract 2",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-4.png",
-            "collections":"stock,landscapes,city"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_6.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
+            "name":"Abstract 3",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"food"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_7.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
+            "name":"Abstract blue",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"food"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_blue.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
+            "name":"Abstract 4",
             "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"food"
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_greenwater.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_red.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_violet.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_water.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/astronomy.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/blue.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/blue_abstract.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/blue_planet.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/earth.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/flowers_1.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/flowers_2.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/flowers_3.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/flowers_4.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/galaxy1.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/green.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/green_abstract.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/green_abstract_2.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/green_gem.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/jellyfish.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/moon.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/moon_2.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/nasa.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/nebula_blue.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/nebula_red.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/nebula_violet.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/orange_gem.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/red.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_421.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/red_1.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/red_rose.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/redman.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/rose.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/spiral.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/violet.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/violet_abstract.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/white_flowers.png",
+            "collections":"amoled"
         },
         {
-            "name":"Colors X",
-            "author":"Leonardo Mazzone",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/X-1.png",
-            "collections":"food"
+            "name":"Contrast",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Contrast.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Delta",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Delta.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Delta",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Delta.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Field",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Field.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Heibei",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Heibei.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Karak",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Karak.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lagoon",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Lagoon.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lakeirwin",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Lakeirwin.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lagos",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Lagos.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lakes",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Lakes.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Riverflow",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Riverflow.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Sanilurfa",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Sanilurfa.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Tuamontus",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Tuamontus.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"antofagasta",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/antofagasta.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth1",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth1.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth10",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth10.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth2",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth2.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth3",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth3.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth4",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth4.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth5",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth5.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth6",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth6.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth7",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth7.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth8",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth8.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth9",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth9.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lakeballard",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/lakeballard.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Marche Italy",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/marche_italy.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Nord",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/nord.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Satellite",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/satellite.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Saudi Arabia",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/saudiarabia.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Sicily",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/sicily-italy.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Sicily in Italy",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/sicily_2.jpg",
+            "collections":"earth"
         }
+			
 		
     ]
 }
