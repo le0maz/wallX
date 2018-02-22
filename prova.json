@@ -817,7 +817,7 @@
             "name":"Stock iPhone",
             "author":"Apple",
             "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_heritage_stripe_black.jpg",
-            "collections":"stock"
+            "collections":"stock,amoled"
         },
 		{
             "name":"Stock iPhone",
