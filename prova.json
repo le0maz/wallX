@@ -16,12 +16,197 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/mars.png"
         },
 		{
+            "name":"Photography",
+            "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jake-blucker-316192-unsplash.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jake-blucker-316192-unsplash.jpg"
+        },
+		{
             "name":"Stock",
             "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/collections/stock.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/collections/thumb/stock.jpg"
         }
     ],
     "Wallpapers":[
+	    {
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/adam-krowitz-386792-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/anton-repponen-99624-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/billy-onjea-3487-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/daniel-von-appen-255535-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/elizabeth-lies-6697-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/felix-russell-saw-225060-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/geran-de-klerk-136347-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/hugo-kemmel-289809-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jacob-repko-308921-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jake-blucker-316192-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/james-donaldson-365418-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jessica-furtney-177531-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jose-duarte-306141-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/kees-streefkerk-352781-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/kees-streefkerk-352868-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/kensuke-saito-surf-photography-339098-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/linda-xu-185627-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/lobostudio-hamburg-359753-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/matthew-kane-394407-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/moritz-bastian-320007-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/nathan-anderson-251528-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/o-c-gonzalez-340722-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/preston-pownell-15453-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/rucksack-magazine-315952-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/sebastian-kostrubala-14464-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/shifaaz-shamoon-302646-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/simone-hutsch-400242-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/will-van-wingerden-188575-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/william-karl-287114-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/yeshi-kangrang-342857-unsplash.jpg",
+            "collections":"photography"
+        },
         {
             "name":"Mars",
             "author":"Leonardo Mazzone",
