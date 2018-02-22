@@ -28,6 +28,42 @@
     ],
     "Wallpapers":[
 	    {
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/1.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/10.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/298e.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/3.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/8.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/x1.jpg",
+            "collections":"photography"
+		},
+	    {
             "name":"Photography by Unsplash",
             "author":"Author from Unsplash",
             "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jake-blucker-316192-unsplash.jpg",
