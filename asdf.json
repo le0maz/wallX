@@ -1,0 +1,1042 @@
+{
+    "Collections":[
+        {
+            "name":"Earth",
+            "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/antofagasta.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/antofagasta.jpg"
+        },
+        {
+            "name":"Colorful",
+            "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsX.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsX.png"
+        },
+        {
+            "name":"Amoled",
+            "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/mars.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/mars.png"
+        },
+		{
+            "name":"Photography",
+            "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jake-blucker-316192-unsplash.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jake-blucker-316192-unsplash.jpg"
+        },
+		{
+            "name":"Stock",
+            "preview_url":"https://raw.githubusercontent.com/le0maz/wallX/master/collections/stock.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/le0maz/wallX/master/collections/thumb/stock.jpg"
+        }
+    ],
+    "Wallpapers":[
+	    {
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/g332.jpg",
+            "collections":"photography"
+			"downloadable":true
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/1.jpg",
+            "collections":"photography"
+			"downloadable":true
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/2.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/3.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/4.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/5.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/6.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/7.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/8.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/9.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/10.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/c3.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/ce3.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"Unsplash",
+            "author":"Photographer from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash23/x2.jpg",
+            "collections":"photography"
+		},
+	    {
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/1.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/10.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/298e.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/3.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/8.jpg",
+            "collections":"photography"
+		},
+		{
+            "name":"From Bing",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/micro/x1.jpg",
+            "collections":"photography"
+		},
+	    {
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jake-blucker-316192-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/anton-repponen-99624-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/billy-onjea-3487-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/daniel-von-appen-255535-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/elizabeth-lies-6697-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/felix-russell-saw-225060-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/geran-de-klerk-136347-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/hugo-kemmel-289809-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jacob-repko-308921-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jake-blucker-316192-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/james-donaldson-365418-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jessica-furtney-177531-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/jose-duarte-306141-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/kees-streefkerk-352781-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/kees-streefkerk-352868-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/kensuke-saito-surf-photography-339098-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/linda-xu-185627-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/lobostudio-hamburg-359753-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/matthew-kane-394407-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/moritz-bastian-320007-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/nathan-anderson-251528-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/o-c-gonzalez-340722-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/preston-pownell-15453-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/rucksack-magazine-315952-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/sebastian-kostrubala-14464-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/shifaaz-shamoon-302646-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/simone-hutsch-400242-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/will-van-wingerden-188575-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/william-karl-287114-unsplash.jpg",
+            "collections":"photography"
+        },
+		{
+            "name":"Photography by Unsplash",
+            "author":"Author from Unsplash",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/unsplash/yeshi-kangrang-342857-unsplash.jpg",
+            "collections":"photography"
+        },
+        {
+            "name":"Mars",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/mars.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED 2",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_2.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED 3",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_3.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract AMOLED 4",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_4.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract 1",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_5.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract 2",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_6.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract 3",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_7.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract blue",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_blue.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Abstract 4",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_greenwater.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_red.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_violet.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_water.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/astronomy.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/blue.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/blue_abstract.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/blue_planet.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/earth.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/flowers_1.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/flowers_2.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/flowers_3.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/flowers_4.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/galaxy1.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/green.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/green_abstract.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/green_abstract_2.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/green_gem.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/jellyfish.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/moon.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/moon_2.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/nasa.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/nebula_blue.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/nebula_red.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/nebula_violet.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/orange_gem.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/red.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/abstract_421.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/red_1.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/red_rose.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/redman.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/rose.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/spiral.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/violet.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/violet_abstract.png",
+            "collections":"amoled"
+        },
+		{
+            "name":"Abstract",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/AMOLED/white_flowers.png",
+            "collections":"amoled"
+        },
+        {
+            "name":"Contrast",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Contrast.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Delta",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Delta.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Delta",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Delta.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Field",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Field.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Heibei",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Heibei.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Karak",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Karak.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lagoon",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Lagoon.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lakeirwin",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Lakeirwin.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lagos",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Lagos.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lakes",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Lakes.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Riverflow",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Riverflow.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Sanilurfa",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Sanilurfa.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Tuamontus",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Tuamontus.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"antofagasta",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/antofagasta.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth1",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth1.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth10",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth10.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth2",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth2.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth3",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth3.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth4",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth4.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth5",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth5.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth6",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth6.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth7",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth7.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth8",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth8.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"earth9",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth9.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Lakeballard",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/lakeballard.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Marche Italy",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/marche_italy.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Nord",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/nord.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Satellite",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/satellite.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Saudi Arabia",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/saudiarabia.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Sicily",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/sicily-italy.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Sicily in Italy",
+            "author":"Earth",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/sicily_2.jpg",
+            "collections":"earth"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsX2ef.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXbl2.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXd2.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXe2.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXg.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXk.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXpqe.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/ColorsXs1.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsX.png",
+            "collections":"colorful"
+        },
+        {
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsXa.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsXb.png",
+            "collections":"colorful"
+        },
+		{
+            "name":"Colorful X Style",
+            "author":"Leonardo Mazzone",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/1x/21/ColorsXc.png",
+            "collections":"colorful" 
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_aura_black_granite.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_aura_gold_granite.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_aura_silver_granite.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_earth.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_earth_night.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_aechmea.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_aquilegia.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_fritillaria.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_gloriosa.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_helleborus.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_flower_muscari.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_heritage_stripe_black.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_8_moon.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_01.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_02.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_19.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_31.png",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_32.png",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_44.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_33.png",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_41.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock iPhone",
+            "author":"Apple",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/iphone_x_wall_42.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_default.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_gallery_01.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_gallery_02.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_gallery_04.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_red.jpg",
+            "collections":"stock"
+        },
+		{
+            "name":"Stock OnePlus",
+            "author":"OnePlus",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/stock/op5t_sandstone.jpg",
+            "collections":"stock"
+        }
+		
+    ]
+}
