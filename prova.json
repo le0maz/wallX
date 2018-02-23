@@ -526,12 +526,6 @@
             "collections":"earth"
         },
 		{
-            "name":"Delta",
-            "author":"Earth",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Delta.jpg",
-            "collections":"earth"
-        },
-		{
             "name":"Field",
             "author":"Earth",
             "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/Field.jpg",
@@ -600,7 +594,7 @@
 		{
             "name":"earth",
             "author":"Earth",
-            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth.jpg",
+            "url":"https://raw.githubusercontent.com/le0maz/wallX/master/earth/earth.jpeg",
             "collections":"earth"
         },
 		{
